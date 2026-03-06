@@ -298,6 +298,17 @@ aws cloudformation wait stack-delete-complete --stack-name workshop-stack
 
 ---
 
+![ref](src/P1.png)
+![ref](src/P2.png)
+![ref](src/P3.png)
+![ref](src/P4.png)
+![ref](src/P5.png)
+![ref](src/P6.png)
+![ref](src/P7.png)
+![ref](src/P8.png)
+![ref](src/P9.png)
+![ref](src/P10.png)
+
 # Key Takeaways
 
 This project demonstrates how modern frameworks can be used to build **goal-driven AI agents** capable of orchestrating complex tasks.
