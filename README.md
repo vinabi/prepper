@@ -422,6 +422,6 @@ This architecture can be extended to support other AI-driven workflows such as:
 * automated report generation
 * decision support systems
 
-Author: Nayab Irfan ([GitHub Repository](https://github.com/vinabi/prepper))
+Author: ([Nayab Irfan](https://github.com/vinabi/prepper))
 
 ```
