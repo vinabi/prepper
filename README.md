@@ -1,5 +1,5 @@
-## Spring AI + Embabel Workshop Documentation
-# Meeting Preparation Agent  
+# Spring AI + Embabel Workshop Documentation
+## Meeting Preparation Agent  
 ---
 
 # 1. Introduction
