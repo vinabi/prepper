@@ -423,3 +423,4 @@ This architecture can be extended to support other AI-driven workflows such as:
 * decision support systems
 
 ```
+Author: Nayab Irfan ([GitHub Repository](https://github.com/vinabi/prepper))
