@@ -298,16 +298,11 @@ aws cloudformation wait stack-delete-complete --stack-name workshop-stack
 
 ---
 
-![ref](src/P1.png)
-![ref](src/P2.png)
-![ref](src/P3.png)
-![ref](src/P4.png)
-![ref](src/P5.png)
-![ref](src/P6.png)
-![ref](src/P7.png)
-![ref](src/P8.png)
-![ref](src/P9.png)
-![ref](src/P10.png)
+![ref](src/P11.png)
+![ref](src/P12.png)
+![ref](src/P13.png)
+![ref](src/P14.png)
+![ref](src/P15.png)
 
 # Key Takeaways
 
