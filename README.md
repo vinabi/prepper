@@ -1,16 +1,5 @@
-Below is a **concept-focused documentation file**.
-It explains what was done and why, with only **small code snippets for reference**, not full code.
-
-You can save it as:
-
-`DOCUMENTATION.md`
-
----
-
-```markdown
-# Meeting Preparation Agent  
 ## Spring AI + Embabel Workshop Documentation
-
+# Meeting Preparation Agent  
 ---
 
 # 1. Introduction
@@ -433,8 +422,4 @@ This architecture can be extended to support other AI-driven workflows such as:
 * automated report generation
 * decision support systems
 
-```
-
----
-Ifyou want, I can also give you a **shorter 3–4 page "professor-friendly" version** that sounds more academic and scores better in grading.
 ```
