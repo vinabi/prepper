@@ -39,7 +39,7 @@ Core layers include:
 
 The agent executes several coordinated actions to generate the final briefing.
 
-![Agent Workflow](src/D1/agent-workflow.png)
+![Agent Workflow](src/D2.png)
 
 Workflow steps:
 
@@ -56,7 +56,7 @@ Each step is implemented as an **Embabel Action**.
 
 The project uses **domain-driven design** to represent meeting preparation data.
 
-![Domain Model](src/D1/domain-model.png)
+![Domain Model](src/D3.png)
 
 Key domain objects include:
 
@@ -123,13 +123,6 @@ prepper
 │ │ ├── application.properties
 │ │ ├── schema.sql
 │ │ └── models/additional-bedrock.yaml
-│ │
-│ └── D1
-│ ├── architecture.png
-│ ├── agent-workflow.png
-│ ├── domain-model.png
-│ └── cli-demo.png
-
 
 ---
 
@@ -273,7 +266,7 @@ The agent will generate a **meeting briefing**.
 
 Example CLI session:
 
-![CLI Demo](src/D1/cli-demo.png)
+![CLI Demo](src/D4.png)
 
 ---
 
