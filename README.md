@@ -1,9 +1,3 @@
-
----
-
-# README.md
-
-```markdown
 # Meeting Prepper Agent
 
 AI-powered meeting preparation agent built using **Spring AI**, **Embabel**, and **AWS Bedrock**.
